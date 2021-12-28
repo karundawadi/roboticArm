@@ -12,7 +12,7 @@ Python program to use an EV3 arm to draw a shape using the provided euclidian co
 - Any points that corresponds to a sequence of points can be entered to the system 
 - User can place any size of pen in the system 
 
-<img src="pictures/robot.jpg" width="500">
+<img src="pictures/robot.jpg" width="400">
 
 ## Demo 
 
