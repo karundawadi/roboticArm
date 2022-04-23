@@ -23,4 +23,4 @@ Python program to use an EV3 arm to draw a shape using the provided euclidian co
 - Implement a mechanism to place the pen autonomously 
 
 ## Team
-This was a team project. The team memebers were : [Shishir Bishowokarma](https://github.com/Shishir77) and [Robert Fabbro](https://github.com/PolskaFly)
+This was a team project. The team memebers were : [Shishir Bishwokarma](https://github.com/Shishir77) and [Robert Fabbro](https://github.com/PolskaFly)
